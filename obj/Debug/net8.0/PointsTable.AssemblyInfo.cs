@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PointsTable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+731b96421dabbd6d6aa24b73606f6a4c192e757b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PointsTable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PointsTable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
